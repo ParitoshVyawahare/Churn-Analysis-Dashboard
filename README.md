@@ -4,7 +4,8 @@
 This project focuses on **Churn Analysis** using **SQL Server, Power BI, and Python**. It covers the complete data pipeline, from **ETL processing, data cleaning, and visualization** to **building a predictive machine learning model**. The final output includes an interactive Power BI dashboard that provides insights into customer churn patterns and predicted churners.
 
 ## Data Workflow
-![Data Workflow](image.png)
+![Data Workflow] ![image](https://github.com/user-attachments/assets/ad28ecfb-6c59-441b-a6af-e1fc6d31cc64)
+
 
 ## Key Steps in the Project
 
