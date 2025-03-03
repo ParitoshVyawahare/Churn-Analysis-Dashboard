@@ -1,10 +1,16 @@
+#Dashbord View
+![image](https://github.com/user-attachments/assets/94125e5a-578f-4556-b8b4-f143f258c423)
+
+**Link**: (https://app.powerbi.com/groups/me/reports/954bc837-44cc-4e2c-8e0a-ba43d3e919ba/4a297085e02a5d693ded?experience=power-bi)
+
+
 # Churn Analysis Project using SQL Server, Power BI & Python
 
 ## Project Overview
 This project focuses on **Churn Analysis** using **SQL Server, Power BI, and Python**. It covers the complete data pipeline, from **ETL processing, data cleaning, and visualization** to **building a predictive machine learning model**. The final output includes an interactive Power BI dashboard that provides insights into customer churn patterns and predicted churners.
 
 ## Data Workflow
-![Data Workflow] ![image](https://github.com/user-attachments/assets/ad28ecfb-6c59-441b-a6af-e1fc6d31cc64)
+![image](https://github.com/user-attachments/assets/ad28ecfb-6c59-441b-a6af-e1fc6d31cc64)
 
 
 ## Key Steps in the Project
@@ -76,3 +82,4 @@ If you have any suggestions or improvements, feel free to contribute or reach ou
 ### 🔗 Connect with Me
 - **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/in/paritosh2712/)
 - **GitHub**: [Your GitHub Profile](https://github.com/ParitoshVyawahare?tab=repositories)
+- 
